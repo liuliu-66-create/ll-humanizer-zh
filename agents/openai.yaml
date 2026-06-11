@@ -1,0 +1,3 @@
+display_name: "LL Humanizer ZH"
+short_description: "Reduce AI tone in Chinese drafts"
+default_prompt: "Use ll-humanizer-zh to check this draft for AI tone and rewrite it without changing my core point."
