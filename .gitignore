@@ -1,0 +1,5 @@
+profiles/*.local.md
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
